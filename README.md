@@ -1,3 +1,6 @@
+## App View
+![React_EmailSending_Dummy_App](https://user-images.githubusercontent.com/66135365/86876752-06b7e880-c103-11ea-9c7a-eff58afc4b7d.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
